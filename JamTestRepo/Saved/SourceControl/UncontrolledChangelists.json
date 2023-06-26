@@ -5,7 +5,22 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/garyn/Desktop/Game Jam Repo/Test-Repo-GMTK/JamTestRepo/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"C:/Users/garyn/Desktop/Game Jam Repo/Test-Repo-GMTK/JamTestRepo/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/garyn/Desktop/Game Jam Repo/Test-Repo-GMTK/JamTestRepo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/M3/7JQC72ZY37QM4IT43WD5CW.uasset",
+				"C:/Users/garyn/Desktop/Game Jam Repo/Test-Repo-GMTK/JamTestRepo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR.uasset",
+				"C:/Users/garyn/Desktop/Game Jam Repo/Test-Repo-GMTK/JamTestRepo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset",
+				"C:/Users/garyn/Desktop/Game Jam Repo/Test-Repo-GMTK/JamTestRepo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset",
+				"C:/Users/garyn/Desktop/Game Jam Repo/Test-Repo-GMTK/JamTestRepo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U7/H8YL2PPHZPBTI74SUD0RNL.uasset",
+				"C:/Users/garyn/Desktop/Game Jam Repo/Test-Repo-GMTK/JamTestRepo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset",
+				"C:/Users/garyn/Desktop/Game Jam Repo/Test-Repo-GMTK/JamTestRepo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset",
+				"C:/Users/garyn/Desktop/Game Jam Repo/Test-Repo-GMTK/JamTestRepo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4D/BBOCKSZY1GVHTFRX0PR0O8.uasset",
+				"C:/Users/garyn/Desktop/Game Jam Repo/Test-Repo-GMTK/JamTestRepo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EA/9BWDWCNL7OZT2HTML9LK1Y.uasset",
+				"C:/Users/garyn/Desktop/Game Jam Repo/Test-Repo-GMTK/JamTestRepo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset",
+				"C:/Users/garyn/Desktop/Game Jam Repo/Test-Repo-GMTK/JamTestRepo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/YT/CQR16QFDKKEYP53M51TV4F.uasset",
+				"C:/Users/garyn/Desktop/Game Jam Repo/Test-Repo-GMTK/JamTestRepo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset",
+				"C:/Users/garyn/Desktop/Game Jam Repo/Test-Repo-GMTK/JamTestRepo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset",
+				"C:/Users/garyn/Desktop/Game Jam Repo/Test-Repo-GMTK/JamTestRepo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/7P/DTMOEM3PXI2CI9TK4PFBBO.uasset",
+				"C:/Users/garyn/Desktop/Game Jam Repo/Test-Repo-GMTK/JamTestRepo/Content/ThirdPerson/Maps/_GENERATED/garyn/CubeGridToolOutput_3653A625.uasset"
 			]
 		}
 	]
